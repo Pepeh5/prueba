@@ -1,0 +1,8 @@
+Profile.template
+template_profile_avatar_select
+
+
+
+index.spanish_latin-utf8
+$txt['unread_since_visit'] = 'MENSAJES NO LEÌDOS.';
+$txt['show_unread_replies'] = 'NUEVAS RESPUESTAS.';
